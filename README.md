@@ -2,7 +2,7 @@
 
 <picture> <img align="right" src="https://github.com/siddharth-upadhyayula/siddharth-upadhyayula/blob/main/Images/Typing.gif?raw=true" width = 250px></picture>
 
-<h3 align="center">A seasoned Software Engineer with 3+ years of full stack experience, building scalable microservices, optimizing cloud architectures and a collaborative team player focused on delivering impactful solutions that achieve significant results.</h3>
+<h3 align="center">I am currently working as Full Stack Developer II at FedEx Corporation.</h3>
 
 <br><br>
 
