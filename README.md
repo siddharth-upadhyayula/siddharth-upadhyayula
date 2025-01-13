@@ -18,6 +18,4 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
-<p align = "center">
-	<img src = "https://github.com/siddharth-upadhyayula/siddharth-upadhyayula/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+![snake gif](https://github.com/siddharth-upadhyayula/siddharth-upadhyayula/blob/output/github-snake-dark.svg)
