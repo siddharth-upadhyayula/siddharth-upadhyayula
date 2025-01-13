@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Upadhyayula</h1>
+
+<picture> <img align="right" src="https://github.com/siddharth-upadhyayula/siddharth-upadhyayula/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <h3 align="center">A seasoned Software Engineer with 3+ years of full stack experience, building scalable microservices, optimizing cloud architectures and a collaborative team player focused on delivering impactful solutions that achieve significant results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth-upadhyayula&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth-upadhyayula" /> </p>
