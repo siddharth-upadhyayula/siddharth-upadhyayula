@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Upadhyayula</h1>
 
-🔭 I’m currently working on Spring and Angular<br>👯 I’m looking to collaborate on building scalable applications <br>🌱 I’m currently learning Gen AI<br>💬 Ask me about Software Development, and Machine Learning <br>⚡ Fun fact: I can bowl toe crushing yorkers "https://github.githubassets.com/images/icons/emoji/unicode/2604.png?v8"
+🔭 I’m currently working on Spring and Angular<br>👯 I’m looking to collaborate on building scalable applications <br>🌱 I’m currently learning Gen AI<br>💬 Ask me about Software Development, and Machine Learning <br>⚡ Fun fact: I can bowl toe crushing yorkers
 
 <picture> <img align="right" src="https://github.com/siddharth-upadhyayula/siddharth-upadhyayula/blob/main/Images/Typing.gif?raw=true" width = 250px></picture>
 
