@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siddharth Upadhyayula</h1>
 
-🔭 I’m currently working on Spring and Angular<br>👯 I’m looking to collaborate on building scalable applications <br>🌱 I’m currently learning Gen AI<br>💬 Ask me about Software Development, and Machine Learning <br>⚡ Fun fact: I can bowl toe crushing yorkers
-
 <picture> <img align="right" src="https://github.com/siddharth-upadhyayula/siddharth-upadhyayula/blob/main/Images/Typing.gif?raw=true" width = 250px></picture>
+
+🔭 I’m currently working on Spring and Angular<br>👯 I’m looking to collaborate on building scalable applications <br>🌱 I’m currently learning Gen AI<br>💬 Ask me about Software Development, and Machine Learning <br>⚡ Fun fact: I can bowl toe crushing yorkers
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-u) 
